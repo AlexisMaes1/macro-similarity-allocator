@@ -19,8 +19,8 @@ Ce repo implémente une stratégie d'allocation d'actifs **entièrement data-dri
 ## Installation
 
 ```bash
-git clone https://github.com/ton-user/macro-regime-allocator.git
-cd macro-regime-allocator
+git clone https://github.com/AlexisMaes1/macro-similarity-allocator.git
+cd macro-similarity-allocator
 python -m venv .venv
 source .venv/bin/activate  # ou .venv\Scripts\activate sous Windows
 pip install -r requirements.txt
