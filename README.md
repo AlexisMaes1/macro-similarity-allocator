@@ -13,8 +13,7 @@ Ce repo implémente une stratégie d'allocation d'actifs **entièrement data-dri
 ## Structure du projet
 
 - `src/macro_regime_allocator/` : cœur du modèle (macro, similarité, optimisation, backtest)
-- `notebooks/01_backtest_demo.ipynb` : exemple d'utilisation
-- `data/` : exemples de fichiers de données (ou instructions pour les télécharger)
+- `data/` : fichiers de données 
 - `main.py` : point d'entrée simple pour lancer un backtest
 
 ## Installation
